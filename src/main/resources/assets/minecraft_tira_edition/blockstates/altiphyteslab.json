@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "minecraft_tira_edition:block/altiphyteslab"
+    },
+    "type=top": {
+      "model": "minecraft_tira_edition:block/altiphyteslab_top"
+    },
+    "type=double": {
+      "model": "minecraft_tira_edition:block/altiphyteslab_full"
+    }
+  }
+}

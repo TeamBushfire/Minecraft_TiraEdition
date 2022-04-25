@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=upper": {
+      "model": "minecraft_tira_edition:block/tallpagophyte"
+    },
+    "half=lower": {
+      "model": "minecraft_tira_edition:block/tallpagophyte_bottom"
+    }
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "_fv": 25,
+  "_type": "dimension",
+  "definition": {
+    "biomesInDimension": [
+      {
+        "value": "CUSTOM:Crescentia"
+      },
+      {
+        "value": "CUSTOM:Densealtiphytejungle"
+      },
+      {
+        "value": "CUSTOM:Dryerseasonalsteppe"
+      },
+      {
+        "value": "CUSTOM:Dryseasonalsteppe"
+      },
+      {
+        "value": "CUSTOM:Nodophyteplains"
+      },
+      {
+        "value": "CUSTOM:Nodophytetaiga"
+      },
+      {
+        "value": "CUSTOM:Ocean"
+      },
+      {
+        "value": "CUSTOM:Opentiraplains"
+      },
+      {
+        "value": "CUSTOM:Seasonaldesert"
+      },
+      {
+        "value": "CUSTOM:Seasonalsteppe"
+      },
+      {
+        "value": "CUSTOM:Shallowocean"
+      },
+      {
+        "value": "CUSTOM:Snowynodophyteplains"
+      },
+      {
+        "value": "CUSTOM:Snowynodophytetaiga"
+      },
+      {
+        "value": "CUSTOM:Snowytira"
+      },
+      {
+        "value": "CUSTOM:Sparsealtyphytetropics"
+      },
+      {
+        "value": "CUSTOM:Tirandesert"
+      },
+      {
+        "value": "CUSTOM:Tirasteppe"
+      },
+      {
+        "value": "CUSTOM:Tiraswamp"
+      },
+      {
+        "value": "CUSTOM:Tropicalaltiphyteforest"
+      },
+      {
+        "value": "CUSTOM:Xylophyteforest"
+      }
+    ],
+    "worldGenType": "Normal world gen",
+    "mainFillerBlock": {
+      "value": "CUSTOM:Darkstone"
+    },
+    "fluidBlock": {
+      "value": "Blocks.FLOWING_WATER"
+    },
+    "canRespawnHere": true,
+    "hasFog": false,
+    "isDark": true,
+    "doesWaterVaporize": false,
+    "sleepResult": "ALLOW",
+    "hasSkyLight": true,
+    "imitateOverworldBehaviour": true,
+    "portalFrame": {
+      "value": "Blocks.WARPED_HYPHAE"
+    },
+    "portalParticles": {
+      "value": "GLOW_SQUID_INK"
+    },
+    "portalLuminance": 3,
+    "portalSound": {
+      "value": ""
+    },
+    "igniterName": "Tira Portal Igniter",
+    "igniterTab": {
+      "value": "TOOLS"
+    },
+    "texture": "ijegfi",
+    "portalTexture": "xylophytelog",
+    "enablePortal": true
+  }
+}

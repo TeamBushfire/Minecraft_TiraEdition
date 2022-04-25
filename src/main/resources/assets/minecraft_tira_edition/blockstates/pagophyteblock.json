@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "minecraft_tira_edition:block/pagophyteblock"
+    },
+    "facing=east": {
+      "model": "minecraft_tira_edition:block/pagophyteblock",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "minecraft_tira_edition:block/pagophyteblock",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "minecraft_tira_edition:block/pagophyteblock",
+      "y": 270
+    }
+  }
+}

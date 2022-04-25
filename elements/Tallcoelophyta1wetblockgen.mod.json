@@ -1,0 +1,37 @@
+{
+  "_fv": 25,
+  "_type": "structure",
+  "definition": {
+    "structure": "tallcoelophyta1",
+    "randomlyRotateStructure": true,
+    "surfaceDetectionType": "First block",
+    "spawnProbability": 100000,
+    "minCountPerChunk": 1,
+    "maxCountPerChunk": 1,
+    "spawnLocation": "Ground",
+    "spawnHeightOffset": -3,
+    "spawnXOffset": 0,
+    "spawnZOffset": 0,
+    "spawnWorldTypes": [
+      "Surface",
+      "CUSTOM:Tira"
+    ],
+    "restrictionBlocks": [
+      {
+        "value": "CUSTOM:Brachyphytablock"
+      }
+    ],
+    "restrictionBiomes": [
+      {
+        "value": "CUSTOM:Densealtiphytejungle"
+      },
+      {
+        "value": "CUSTOM:Tiraswamp"
+      },
+      {
+        "value": "CUSTOM:Tropicalaltiphyteforest"
+      }
+    ],
+    "ignoreBlocks": "AIR_AND_STRUCTURE_BLOCK"
+  }
+}

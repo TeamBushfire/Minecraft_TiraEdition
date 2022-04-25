@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "alien_biospheres_mod:blocks/xylophyteplanks",
+    "particle": "alien_biospheres_mod:blocks/xylophyteplanks"
+  }
+}

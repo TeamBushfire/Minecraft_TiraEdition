@@ -1,0 +1,46 @@
+{
+  "_fv": 25,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 3,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Altiphytelog"
+      },
+      {
+        "value": "CUSTOM:Altiphytelog"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Altiphytelog"
+      },
+      {
+        "value": "CUSTOM:Altiphytelog"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Altiphytewood"
+    },
+    "name": "altiphytewoodc",
+    "namespace": "mod"
+  }
+}

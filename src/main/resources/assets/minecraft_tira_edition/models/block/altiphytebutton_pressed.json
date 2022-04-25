@@ -1,0 +1,6 @@
+{
+  "parent": "block/button_pressed",
+  "textures": {
+    "texture": "minecraft_tira_edition:blocks/altiphyteplanks2"
+  }
+}

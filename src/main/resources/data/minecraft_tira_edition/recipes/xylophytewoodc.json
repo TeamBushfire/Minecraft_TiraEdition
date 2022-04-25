@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft_tira_edition:xylophytelog"
+    },
+    "1": {
+      "item": "minecraft_tira_edition:xylophytelog"
+    },
+    "2": {
+      "item": "minecraft_tira_edition:xylophytelog"
+    },
+    "3": {
+      "item": "minecraft_tira_edition:xylophytelog"
+    }
+  },
+  "result": {
+    "item": "minecraft_tira_edition:xylophytewood",
+    "count": 3
+  }
+}

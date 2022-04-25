@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "powered=false": {
+      "model": "minecraft_tira_edition:block/xylophytepressureplate"
+    },
+    "powered=true": {
+      "model": "minecraft_tira_edition:block/xylophytepressureplate_down"
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "_fv": 25,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "CUSTOM:Brachyphytablock"
+      },
+      {
+        "value": "CUSTOM:Tirandirt"
+      },
+      {
+        "value": "CUSTOM:Pagophyteblock"
+      },
+      {
+        "value": "CUSTOM:Tiradirt2"
+      },
+      {
+        "value": "CUSTOM:Cryptophyteblock"
+      },
+      {
+        "value": "CUSTOM:Tiradirt3"
+      }
+    ],
+    "functions": [],
+    "entities": [],
+    "name": "dirt",
+    "namespace": "forge"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "_fv": 25,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 3,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:CoelophytaPlanks"
+      },
+      {
+        "value": "Items.STICK"
+      },
+      {
+        "value": "CUSTOM:CoelophytaPlanks"
+      },
+      {
+        "value": "CUSTOM:CoelophytaPlanks"
+      },
+      {
+        "value": "Items.STICK"
+      },
+      {
+        "value": "CUSTOM:CoelophytaPlanks"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:CoelophytaFence"
+    },
+    "name": "coelophyta_fence_recipe",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "powered=false": {
+      "model": "minecraft_tira_edition:block/altiphytepressureplate"
+    },
+    "powered=true": {
+      "model": "minecraft_tira_edition:block/altiphytepressureplate_down"
+    }
+  }
+}

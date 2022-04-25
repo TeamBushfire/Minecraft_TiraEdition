@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "minecraft_tira_edition:blocks/nodophytelogtop2_2",
+    "up": "minecraft_tira_edition:blocks/nodophytelogtop2_2",
+    "north": "minecraft_tira_edition:blocks/nodophytelogside2_2",
+    "east": "minecraft_tira_edition:blocks/nodophytelogside2_2",
+    "south": "minecraft_tira_edition:blocks/nodophytelogside2_2",
+    "west": "minecraft_tira_edition:blocks/nodophytelogside2_2",
+    "particle": "minecraft_tira_edition:blocks/nodophytelogtop2_2"
+  }
+}

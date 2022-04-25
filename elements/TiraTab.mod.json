@@ -1,0 +1,11 @@
+{
+  "_fv": 25,
+  "_type": "tab",
+  "definition": {
+    "name": "Tira",
+    "icon": {
+      "value": "CUSTOM:Brachyphytablock"
+    },
+    "showSearch": false
+  }
+}

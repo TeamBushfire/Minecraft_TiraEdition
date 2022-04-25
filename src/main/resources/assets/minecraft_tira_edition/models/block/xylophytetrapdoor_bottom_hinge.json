@@ -1,0 +1,7 @@
+{
+  "parent": "block/door_bottom_rh",
+  "textures": {
+    "bottom": "alien_biospheres_mod:blocks/xylophytedoorbottom",
+    "top": "alien_biospheres_mod:blocks/xylophytedoortop"
+  }
+}

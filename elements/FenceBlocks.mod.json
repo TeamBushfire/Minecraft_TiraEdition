@@ -1,0 +1,29 @@
+{
+  "_fv": 25,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "CUSTOM:Xylophytefence"
+      },
+      {
+        "value": "CUSTOM:Altiphytefence"
+      },
+      {
+        "value": "CUSTOM:NodophyteFence"
+      },
+      {
+        "value": "CUSTOM:TundraNodophyteFence"
+      },
+      {
+        "value": "CUSTOM:CoelophytaFence"
+      }
+    ],
+    "functions": [],
+    "entities": [],
+    "name": "fences",
+    "namespace": "minecraft"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "block/template_fence_gate",
+  "textures": {
+    "texture": "minecraft_tira_edition:blocks/tundranodophyteplanks"
+  }
+}

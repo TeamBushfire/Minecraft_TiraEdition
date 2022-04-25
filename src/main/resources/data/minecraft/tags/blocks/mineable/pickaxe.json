@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft_tira_edition:darkstone",
+    "minecraft_tira_edition:cobbleddarkstone",
+    "minecraft_tira_edition:polisheddarkstone",
+    "minecraft_tira_edition:darkstonebricks",
+    "minecraft_tira_edition:crackeddarkstonebricks",
+    "minecraft_tira_edition:brachyphyteinfesteddarkstonebricks",
+    "minecraft_tira_edition:chiseledpolisheddarkstone",
+    "minecraft_tira_edition:darkstonepillar"
+  ]
+}

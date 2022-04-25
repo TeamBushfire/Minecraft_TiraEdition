@@ -1,0 +1,10 @@
+{
+  "parent": "block/grass_block",
+  "textures": {
+    "bottom": "minecraft_tira_edition:blocks/dirt1",
+    "top": "minecraft_tira_edition:blocks/brachiphyte_block_up2",
+    "side": "minecraft_tira_edition:blocks/brachiphyte_block2",
+    "overlay": "minecraft_tira_edition:blocks/brachiphyte_block2",
+    "particle": "minecraft_tira_edition:blocks/dirt1"
+  }
+}

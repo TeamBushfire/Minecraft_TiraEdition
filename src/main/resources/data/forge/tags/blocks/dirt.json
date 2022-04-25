@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft_tira_edition:tiradirt_2",
+    "minecraft_tira_edition:tiradirt_3",
+    "minecraft_tira_edition:brachyphytablock",
+    "minecraft_tira_edition:pagophyteblock",
+    "minecraft_tira_edition:cryptophyteblock",
+    "minecraft_tira_edition:tirandirt"
+  ]
+}

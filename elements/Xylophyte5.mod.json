@@ -1,0 +1,39 @@
+{
+  "_fv": 25,
+  "_type": "structure",
+  "definition": {
+    "structure": "xylophyte5",
+    "randomlyRotateStructure": true,
+    "surfaceDetectionType": "First block",
+    "spawnProbability": 10000,
+    "minCountPerChunk": 1,
+    "maxCountPerChunk": 1,
+    "spawnLocation": "Ground",
+    "spawnHeightOffset": 0,
+    "spawnXOffset": -2,
+    "spawnZOffset": -2,
+    "spawnWorldTypes": [
+      "End"
+    ],
+    "restrictionBlocks": [
+      {
+        "value": "CUSTOM:Brachyphytablock"
+      }
+    ],
+    "restrictionBiomes": [
+      {
+        "value": "CUSTOM:Tiraswamp"
+      },
+      {
+        "value": "CUSTOM:Xylophyteforest"
+      },
+      {
+        "value": "CUSTOM:Xylophyteforesthills"
+      },
+      {
+        "value": "CUSTOM:Highxylophyteforest"
+      }
+    ],
+    "ignoreBlocks": "AIR"
+  }
+}

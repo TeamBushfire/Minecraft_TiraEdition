@@ -1,0 +1,114 @@
+{
+  "_fv": 25,
+  "_type": "biome",
+  "definition": {
+    "name": "Tiraswamp",
+    "groundBlock": {
+      "value": "CUSTOM:Brachyphytablock"
+    },
+    "undergroundBlock": {
+      "value": "CUSTOM:Tirandirt"
+    },
+    "waterColor": {
+      "value": -12109501,
+      "falpha": 0.0
+    },
+    "waterFogColor": {
+      "value": -1305534676,
+      "falpha": 0.0
+    },
+    "ambientSound": {
+      "value": ""
+    },
+    "additionsSound": {
+      "value": ""
+    },
+    "music": {
+      "value": ""
+    },
+    "moodSound": {
+      "value": ""
+    },
+    "moodSoundDelay": 6000,
+    "spawnParticles": false,
+    "particleToSpawn": {
+      "value": "EXPLOSION_NORMAL"
+    },
+    "particlesProbability": 0.5,
+    "biomeCategory": "SWAMP",
+    "rainingPossibility": 0.7000000000000001,
+    "temperature": 0.6,
+    "baseHeight": -0.1,
+    "heightVariation": 0.05,
+    "biomeType": "WARM",
+    "spawnBiome": false,
+    "biomeWeight": 8,
+    "biomeDictionaryTypes": [
+      "SWAMP",
+      "WET"
+    ],
+    "grassPerChunk": 0,
+    "seagrassPerChunk": 0,
+    "flowersPerChunk": 0,
+    "mushroomsPerChunk": 0,
+    "bigMushroomsChunk": 0,
+    "sandPatchesPerChunk": 0,
+    "gravelPatchesPerChunk": 4,
+    "reedsPerChunk": 0,
+    "cactiPerChunk": 0,
+    "treesPerChunk": 5,
+    "vanillaTreeType": "Default",
+    "treeType": 1,
+    "minHeight": 10,
+    "treeStem": {
+      "value": "CUSTOM:Xylophytelog"
+    },
+    "treeBranch": {
+      "value": "CUSTOM:Xylophyteleaves"
+    },
+    "treeVines": {
+      "value": ""
+    },
+    "treeFruits": {
+      "value": ""
+    },
+    "spawnStronghold": false,
+    "spawnMineshaft": false,
+    "spawnMineshaftMesa": false,
+    "spawnPillagerOutpost": false,
+    "villageType": "none",
+    "spawnWoodlandMansion": false,
+    "spawnJungleTemple": false,
+    "spawnDesertPyramid": false,
+    "spawnSwampHut": false,
+    "spawnIgloo": false,
+    "spawnOceanMonument": false,
+    "spawnShipwreck": false,
+    "spawnShipwreckBeached": false,
+    "spawnBuriedTreasure": false,
+    "oceanRuinType": "NONE",
+    "spawnNetherBridge": false,
+    "spawnNetherFossil": false,
+    "spawnBastionRemnant": false,
+    "spawnEndCity": false,
+    "spawnRuinedPortal": "NONE",
+    "defaultFeatures": [
+      "Caves",
+      "Ores",
+      "FrozenTopLayer",
+      "Lakes",
+      "SwampClayDisks"
+    ],
+    "spawnEntries": [
+      {
+        "entity": {
+          "value": "CUSTOM:Osteopod"
+        },
+        "minGroup": 1,
+        "maxGroup": 3,
+        "weight": 9,
+        "spawnType": "creature"
+      }
+    ]
+  }
+}

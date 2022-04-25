@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:nodophyte_log"
+    }
+  ],
+  "result": {
+    "item": "minecraft_tira_edition:nodophyte_planks",
+    "count": 4
+  }
+}

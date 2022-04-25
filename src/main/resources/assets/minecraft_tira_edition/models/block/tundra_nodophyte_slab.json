@@ -1,0 +1,8 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "minecraft_tira_edition:blocks/tundranodophyteplanks",
+    "top": "minecraft_tira_edition:blocks/tundranodophyteplanks",
+    "side": "minecraft_tira_edition:blocks/tundranodophyteplanks"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "_fv": 25,
+  "_type": "structure",
+  "definition": {
+    "structure": "eucalophytacaea",
+    "randomlyRotateStructure": true,
+    "surfaceDetectionType": "First block",
+    "spawnProbability": 100000,
+    "minCountPerChunk": 1,
+    "maxCountPerChunk": 3,
+    "spawnLocation": "Ground",
+    "spawnHeightOffset": 1,
+    "spawnXOffset": 0,
+    "spawnZOffset": 0,
+    "spawnWorldTypes": [
+      "Surface",
+      "CUSTOM:Tira"
+    ],
+    "restrictionBlocks": [
+      {
+        "value": "CUSTOM:Brachyphytablock"
+      },
+      {
+        "value": "CUSTOM:Tirandirt"
+      }
+    ],
+    "restrictionBiomes": [
+      {
+        "value": "CUSTOM:Altiphytetropichills"
+      },
+      {
+        "value": "CUSTOM:Densealtiphytejungle"
+      },
+      {
+        "value": "CUSTOM:Sparsealtyphytetropics"
+      },
+      {
+        "value": "CUSTOM:Tiraswamp"
+      },
+      {
+        "value": "CUSTOM:Tropicalaltiphyteforest"
+      }
+    ],
+    "ignoreBlocks": "STRUCTURE_BLOCK"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft_tira_edition:nodophyte_planks"
+    },
+    "3": {
+      "item": "minecraft_tira_edition:nodophyte_planks"
+    },
+    "4": {
+      "item": "minecraft_tira_edition:nodophyte_planks"
+    },
+    "6": {
+      "item": "minecraft_tira_edition:nodophyte_planks"
+    },
+    "7": {
+      "item": "minecraft_tira_edition:nodophyte_planks"
+    },
+    "8": {
+      "item": "minecraft_tira_edition:nodophyte_planks"
+    }
+  },
+  "result": {
+    "item": "minecraft_tira_edition:nodophyte_stairs",
+    "count": 4
+  }
+}

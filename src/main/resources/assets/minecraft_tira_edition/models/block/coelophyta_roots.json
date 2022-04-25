@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "minecraft_tira_edition:blocks/coelophytarootstop",
+    "up": "minecraft_tira_edition:blocks/coelophytarootstop",
+    "north": "minecraft_tira_edition:blocks/coelophytarootsside",
+    "east": "minecraft_tira_edition:blocks/coelophytarootsside",
+    "south": "minecraft_tira_edition:blocks/coelophytarootsside",
+    "west": "minecraft_tira_edition:blocks/coelophytarootsside",
+    "particle": "minecraft_tira_edition:blocks/coelophytarootstop"
+  }
+}

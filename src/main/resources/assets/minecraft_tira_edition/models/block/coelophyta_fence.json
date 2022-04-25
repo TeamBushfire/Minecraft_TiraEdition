@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_side",
+  "textures": {
+    "texture": "minecraft_tira_edition:blocks/coelophytaplanks",
+    "particle": "minecraft_tira_edition:blocks/coelophytaplanks"
+  }
+}

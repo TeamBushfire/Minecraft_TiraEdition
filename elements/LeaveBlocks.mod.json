@@ -1,0 +1,29 @@
+{
+  "_fv": 25,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "CUSTOM:Xylophyteleaves"
+      },
+      {
+        "value": "CUSTOM:Altiphyteleaf"
+      },
+      {
+        "value": "CUSTOM:NodophyteLeaves"
+      },
+      {
+        "value": "CUSTOM:TundraNodophyteLeaves"
+      },
+      {
+        "value": "CUSTOM:CoelophytaLeaves"
+      }
+    ],
+    "functions": [],
+    "entities": [],
+    "name": "leaves",
+    "namespace": "minecraft"
+  }
+}

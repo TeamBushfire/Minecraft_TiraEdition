@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23",
+    "45"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft_tira_edition:altiphyteplanks"
+    },
+    "1": {
+      "item": "minecraft_tira_edition:altiphyteplanks"
+    },
+    "2": {
+      "item": "minecraft_tira_edition:altiphyteplanks"
+    },
+    "3": {
+      "item": "minecraft_tira_edition:altiphyteplanks"
+    },
+    "4": {
+      "item": "minecraft_tira_edition:altiphyteplanks"
+    },
+    "5": {
+      "item": "minecraft_tira_edition:altiphyteplanks"
+    }
+  },
+  "result": {
+    "item": "minecraft_tira_edition:altiphytedoor",
+    "count": 3
+  }
+}

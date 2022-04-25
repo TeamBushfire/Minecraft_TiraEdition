@@ -1,0 +1,23 @@
+{
+  "_fv": 25,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "Blocks.POLISHED_DEEPSLATE_WALL"
+      },
+      {
+        "value": "Blocks.DEEPSLATE_TILE_WALL"
+      },
+      {
+        "value": "Blocks.DEEPSLATE_BRICK_WALL"
+      }
+    ],
+    "functions": [],
+    "entities": [],
+    "name": "walls",
+    "namespace": "minecraft"
+  }
+}

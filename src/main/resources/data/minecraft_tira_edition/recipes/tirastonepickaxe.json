@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft_tira_edition:cobbleddarkstone"
+    },
+    "1": {
+      "item": "minecraft_tira_edition:cobbleddarkstone"
+    },
+    "2": {
+      "item": "minecraft_tira_edition:cobbleddarkstone"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "7": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "minecraft:stone_pickaxe",
+    "count": 1
+  }
+}

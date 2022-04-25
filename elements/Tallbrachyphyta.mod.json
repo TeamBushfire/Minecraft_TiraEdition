@@ -1,0 +1,130 @@
+{
+  "_fv": 25,
+  "_type": "plant",
+  "definition": {
+    "renderType": 12,
+    "texture": "brachiphyte_tall2",
+    "textureBottom": "tallbrachyphyta",
+    "customModelName": "Cross model",
+    "itemTexture": "",
+    "particleTexture": "",
+    "tintType": "No tint",
+    "isItemTinted": false,
+    "plantType": "normal",
+    "staticPlantGenerationType": "Grass",
+    "suspiciousStewEffect": "SPEED",
+    "suspiciousStewDuration": 100,
+    "growapableSpawnType": "Plains",
+    "growapableMaxHeight": 3,
+    "doublePlantGenerationType": "Grass",
+    "customBoundingBox": false,
+    "disableOffset": false,
+    "boundingBoxes": [
+      {
+        "mx": 0.0,
+        "my": 0.0,
+        "mz": 0.0,
+        "Mx": 16.0,
+        "My": 16.0,
+        "Mz": 16.0,
+        "subtract": false
+      }
+    ],
+    "name": "tall Brachyphyta",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:TiraTab"
+    },
+    "hardness": 0.0,
+    "resistance": 0.0,
+    "luminance": 0,
+    "unbreakable": false,
+    "isCustomSoundType": false,
+    "soundOnStep": {
+      "value": "PLANT"
+    },
+    "breakSound": {
+      "value": ""
+    },
+    "stepSound": {
+      "value": ""
+    },
+    "placeSound": {
+      "value": ""
+    },
+    "hitSound": {
+      "value": ""
+    },
+    "fallSound": {
+      "value": ""
+    },
+    "useLootTableForDrops": false,
+    "customDrop": {
+      "value": ""
+    },
+    "dropAmount": 0,
+    "forceTicking": false,
+    "emissiveRendering": false,
+    "hasTileEntity": false,
+    "isReplaceable": true,
+    "colorOnMap": "RED",
+    "creativePickItem": {
+      "value": ""
+    },
+    "offsetType": "XZ",
+    "aiPathNodeType": "DEFAULT",
+    "flammability": 100,
+    "fireSpreadSpeed": 60,
+    "jumpFactor": 1.0,
+    "speedFactor": 1.0,
+    "canBePlacedOn": [
+      {
+        "value": "CUSTOM:Brachyphytablock"
+      },
+      {
+        "value": "CUSTOM:Tirandirt"
+      }
+    ],
+    "frequencyOnChunks": 37,
+    "spawnWorldTypes": [
+      "CUSTOM:Tira",
+      "Surface"
+    ],
+    "restrictionBiomes": [
+      {
+        "value": "CUSTOM:Tirasteppe"
+      },
+      {
+        "value": "CUSTOM:Tiraswamp"
+      },
+      {
+        "value": "CUSTOM:Xylophyteforest"
+      },
+      {
+        "value": "CUSTOM:Xylophyteforesthills"
+      },
+      {
+        "value": "CUSTOM:Tropicalaltiphyteforest"
+      },
+      {
+        "value": "CUSTOM:Highxylophyteforest"
+      },
+      {
+        "value": "CUSTOM:Altiphytetropichills"
+      },
+      {
+        "value": "CUSTOM:Densealtiphytejungle"
+      },
+      {
+        "value": "CUSTOM:Opentiraplains"
+      },
+      {
+        "value": "CUSTOM:Sparsealtyphytetropics"
+      },
+      {
+        "value": "CUSTOM:Crescentia"
+      }
+    ],
+    "patchSize": 5
+  }
+}

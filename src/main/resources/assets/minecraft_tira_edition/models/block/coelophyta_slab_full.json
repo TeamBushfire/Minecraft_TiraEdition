@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "minecraft_tira_edition:blocks/coelophytaplanks",
+    "top": "minecraft_tira_edition:blocks/coelophytaplanks",
+    "side": "minecraft_tira_edition:blocks/coelophytaplanks"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "_fv": 25,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:Xylophyteplanks"
+      },
+      {
+        "value": "CUSTOM:Altiphyteplanks"
+      },
+      {
+        "value": "CUSTOM:NodophytePlanks"
+      },
+      {
+        "value": "CUSTOM:TundraNodophytePlanks"
+      },
+      {
+        "value": "CUSTOM:CoelophytaPlanks"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "name": "planks",
+    "namespace": "minecraft"
+  }
+}

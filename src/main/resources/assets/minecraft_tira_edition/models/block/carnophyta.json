@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft_tira_edition:custom/carnophytamodel",
+  "textures": {
+    "all": "minecraft_tira_edition:blocks/carnophytatexture",
+    "particle": "minecraft_tira_edition:blocks/carnophytatexture",
+    "0": "minecraft_tira_edition:blocks/carnophytatexture"
+  }
+}

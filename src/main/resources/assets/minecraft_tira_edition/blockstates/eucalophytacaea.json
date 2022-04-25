@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "minecraft_tira_edition:block/eucalophytacaea"
+    },
+    "facing=east": {
+      "model": "minecraft_tira_edition:block/eucalophytacaea",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "minecraft_tira_edition:block/eucalophytacaea",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "minecraft_tira_edition:block/eucalophytacaea",
+      "y": 270
+    }
+  }
+}

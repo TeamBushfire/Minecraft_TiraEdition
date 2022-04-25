@@ -1,0 +1,34 @@
+{
+  "_fv": 25,
+  "_type": "structure",
+  "definition": {
+    "structure": "smallaltiphyte5x5",
+    "randomlyRotateStructure": false,
+    "surfaceDetectionType": "First block",
+    "spawnProbability": 900000,
+    "minCountPerChunk": 1,
+    "maxCountPerChunk": 1,
+    "spawnLocation": "Ground",
+    "spawnHeightOffset": 0,
+    "spawnXOffset": -2,
+    "spawnZOffset": -2,
+    "spawnWorldTypes": [
+      "Surface",
+      "CUSTOM:Tira"
+    ],
+    "restrictionBlocks": [
+      {
+        "value": "CUSTOM:Brachyphytablock"
+      }
+    ],
+    "restrictionBiomes": [
+      {
+        "value": "CUSTOM:Densealtiphytejungle"
+      },
+      {
+        "value": "CUSTOM:Tropicalaltiphyteforest"
+      }
+    ],
+    "ignoreBlocks": "AIR_AND_STRUCTURE_BLOCK"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "minecraft_tira_edition:block/xylophyteslab"
+    },
+    "type=top": {
+      "model": "minecraft_tira_edition:block/xylophyteslab_top"
+    },
+    "type=double": {
+      "model": "minecraft_tira_edition:block/xylophyteslab_full"
+    }
+  }
+}

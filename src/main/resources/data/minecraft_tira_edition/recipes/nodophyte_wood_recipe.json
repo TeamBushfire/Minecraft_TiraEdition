@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft_tira_edition:nodophyte_log"
+    },
+    "1": {
+      "item": "minecraft_tira_edition:nodophyte_log"
+    },
+    "2": {
+      "item": "minecraft_tira_edition:nodophyte_log"
+    },
+    "3": {
+      "item": "minecraft_tira_edition:nodophyte_log"
+    }
+  },
+  "result": {
+    "item": "minecraft_tira_edition:nodophyte_wood",
+    "count": 3
+  }
+}
