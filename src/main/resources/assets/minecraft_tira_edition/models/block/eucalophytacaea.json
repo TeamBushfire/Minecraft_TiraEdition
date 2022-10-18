@@ -1,8 +1,0 @@
-{
-  "parent": "minecraft_tira_edition:custom/eucaulophytacaea",
-  "textures": {
-    "all": "minecraft_tira_edition:blocks/eucaulophytacaeatexture",
-    "particle": "minecraft_tira_edition:blocks/eucaulophytacaeatexture",
-    "0": "minecraft_tira_edition:blocks/eucaulophytacaeatexture"
-  }
-}

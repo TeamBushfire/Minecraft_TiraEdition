@@ -1,7 +1,0 @@
-{
-  "parent": "block/cross",
-  "textures": {
-    "cross": "minecraft_tira_edition:blocks/bush_like_ucaulophytacaea",
-    "particle": "minecraft_tira_edition:blocks/bush_like_ucaulophytacaea"
-  }
-}

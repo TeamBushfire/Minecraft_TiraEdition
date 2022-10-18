@@ -1,7 +1,0 @@
-{
-  "parent": "block/template_orientable_trapdoor_top",
-  "textures": {
-    "texture": "minecraft_tira_edition:blocks/xylophytetrapdoor",
-    "particle": "minecraft_tira_edition:blocks/xylophytetrapdoor"
-  }
-}

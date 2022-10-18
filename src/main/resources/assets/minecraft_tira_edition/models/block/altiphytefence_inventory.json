@@ -1,7 +1,0 @@
-{
-  "parent": "block/fence_inventory",
-  "textures": {
-    "texture": "minecraft_tira_edition:blocks/altiphyteplanks2",
-    "particle": "minecraft_tira_edition:blocks/altiphyteplanks2"
-  }
-}

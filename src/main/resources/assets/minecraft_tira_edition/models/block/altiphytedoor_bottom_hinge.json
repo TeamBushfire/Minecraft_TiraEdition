@@ -1,7 +1,0 @@
-{
-  "parent": "block/door_bottom_rh",
-  "textures": {
-    "bottom": "minecraft_tira_edition:blocks/altiphytedoorbottom",
-    "top": "minecraft_tira_edition:blocks/altiphytedoortop"
-  }
-}

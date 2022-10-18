@@ -1,7 +1,0 @@
-{
-  "parent": "block/cross",
-  "textures": {
-    "cross": "minecraft_tira_edition:blocks/tylophytabottom",
-    "particle": "minecraft_tira_edition:blocks/tylophytabottom"
-  }
-}

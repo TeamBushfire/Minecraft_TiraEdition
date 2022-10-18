@@ -1,7 +1,0 @@
-{
-  "parent": "block/cube_all",
-  "textures": {
-    "all": "minecraft_tira_edition:blocks/nodophytelogside1_2",
-    "particle": "minecraft_tira_edition:blocks/nodophytelogside1_2"
-  }
-}

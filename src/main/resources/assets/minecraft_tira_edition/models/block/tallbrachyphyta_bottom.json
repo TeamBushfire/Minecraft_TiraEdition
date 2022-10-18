@@ -1,7 +1,0 @@
-{
-  "parent": "block/cross",
-  "textures": {
-    "cross": "alien_biospheres_mod:blocks/tallbrachyphyta",
-    "particle": "alien_biospheres_mod:blocks/tallbrachyphyta"
-  }
-}

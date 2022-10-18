@@ -1,8 +1,0 @@
-{
-  "parent": "block/outer_stairs",
-  "textures": {
-    "bottom": "minecraft_tira_edition:blocks/altiphyteplanks2",
-    "top": "minecraft_tira_edition:blocks/altiphyteplanks2",
-    "side": "minecraft_tira_edition:blocks/altiphyteplanks2"
-  }
-}

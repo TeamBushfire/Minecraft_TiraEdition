@@ -1,8 +1,0 @@
-{
-  "parent": "block/slab",
-  "textures": {
-    "bottom": "minecraft_tira_edition:blocks/nodophyteplanks2",
-    "top": "minecraft_tira_edition:blocks/nodophyteplanks2",
-    "side": "minecraft_tira_edition:blocks/nodophyteplanks2"
-  }
-}

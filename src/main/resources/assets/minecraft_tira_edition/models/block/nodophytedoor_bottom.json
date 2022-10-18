@@ -1,7 +1,0 @@
-{
-  "parent": "block/door_bottom",
-  "textures": {
-    "bottom": "minecraft_tira_edition:blocks/nodophyte_door_bottom",
-    "top": "minecraft_tira_edition:blocks/nodophyte_door_top"
-  }
-}
